@@ -235,6 +235,14 @@ The concepts demonstrated align with modern AI techniques such as:
 
 ---
 
+#Deliverables
+
+1-Written Report  : Report.docx
+2-POC : app.py 
+3- Presentation : Presentation.pptx
+4- Video Recording : Recording-> demo.mp4
+
+
 # Author
 
 **Shubham Patil**
